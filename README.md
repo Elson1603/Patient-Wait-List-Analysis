@@ -35,14 +35,12 @@ Long patient wait lists are a major challenge in healthcare systems. This projec
 ### Summary View
 KPI overview, case type split, age/time-band distribution, and specialty rankings.
 
-![Summary View](<img width="1378" height="767" alt="Screenshot 2026-07-10 035620" src="https://github.com/user-attachments/assets/5ab9604e-45e5-4a11-9976-34129bd82cf9" />
-)
+<img width="1378" height="767" alt="Summary View - Patient Wait List Dashboard" src="https://github.com/user-attachments/assets/5ab9604e-45e5-4a11-9976-34129bd82cf9" />
 
 ### Detailed View
 Drill-down matrix for granular, specialty-level and time-band-level analysis.
 
-![Detailed View](<img width="1360" height="757" alt="Screenshot 2026-07-10 035711" src="https://github.com/user-attachments/assets/bbd8f895-b511-4c8e-bbf0-5148bdb79b03" />
-)
+<img width="1360" height="757" alt="Detailed View - Patient Wait List Dashboard" src="https://github.com/user-attachments/assets/bbd8f895-b511-4c8e-bbf0-5148bdb79b03" />
 
 ---
 
@@ -111,19 +109,10 @@ Patient-Wait-List-Analysis/
 
 ## 📈 Key Insights
 
-*(Add 2–3 of your own findings here once you've explored the final dashboard — e.g. which specialty had the highest wait list, how the overall trend moved year-over-year, etc. Concrete numbers here make this section stand out to recruiters.)*
+- **Wait list grew year-over-year.** The latest month's total wait list (709K) is roughly **11% higher** than the same month the previous year (640K), suggesting growing rather than easing pressure on services.
+- **Outpatient care dominates the wait list.** Outpatient cases make up the largest share of the average wait list (~72%), well ahead of Day Case (~17%) and Inpatient (~11%) — making outpatient scheduling the biggest lever for reducing overall wait times.
+- **Paediatric specialties are the top bottleneck.** Paediatric ENT (272), Paediatric Orthopaedic (264), and Paediatric Dermatology (233) have the highest average/median wait lists among individual specialties.
+- **Growth is concentrated in Outpatient.** From 2018 to 2021, Outpatient volumes climbed from ~0.5M to over 0.6M, while combined Day Case and Inpatient volumes stayed roughly flat around 50K — most of the year-over-year increase in the wait list is coming from the outpatient side, not inpatient or day-case capacity.
 
 ---
 
-## 🔮 Future Improvements
-
-- Add forecasting for future wait-list trends using Power BI's built-in analytics.
-- Automate data refresh via Power Query from a live source.
-- Add a Power BI Service publish link for a live, browser-based demo.
-
----
-
-## 👤 Author
-
-**Elson Wilson Machado**
-[LinkedIn](https://www.linkedin.com/in/elson-machado-601987322) · [GitHub](https://github.com/Elson1603)
