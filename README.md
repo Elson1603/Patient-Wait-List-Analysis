@@ -35,13 +35,13 @@ Long patient wait lists are a major challenge in healthcare systems. This projec
 ### Summary View
 KPI overview, case type split, age/time-band distribution, and specialty rankings.
 
-![Summary View](<img width="1378" height="767" alt="image" src="https://github.com/user-attachments/assets/8414cf94-7cea-4e78-ada8-7cc2c27d665f" />
+![Summary View](<img width="1378" height="767" alt="Screenshot 2026-07-10 035620" src="https://github.com/user-attachments/assets/5ab9604e-45e5-4a11-9976-34129bd82cf9" />
 )
 
 ### Detailed View
 Drill-down matrix for granular, specialty-level and time-band-level analysis.
 
-![Detailed View](<img width="1360" height="757" alt="image" src="https://github.com/user-attachments/assets/2a59ff2d-250f-402a-9849-6cf36c6daadd" />
+![Detailed View](<img width="1360" height="757" alt="Screenshot 2026-07-10 035711" src="https://github.com/user-attachments/assets/bbd8f895-b511-4c8e-bbf0-5148bdb79b03" />
 )
 
 ---
